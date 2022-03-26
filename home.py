@@ -17,5 +17,4 @@ def home():
                 <li>{city_names[2]}</li>
                 <li>{city_names[3]}</li>
         </ul>"""
-myapp_obj.run()
-
+#myapp_obj.run()
